@@ -1,0 +1,2 @@
+licence
+	no one can use this software for non-profit.
