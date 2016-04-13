@@ -1,3 +1,5 @@
 # My configuration
 # ignore the temporary file created by Notepad
 *.xml
+*~ #vim ÁÙÊ±ÎÄ¼ş
+webstarter/.idea/
